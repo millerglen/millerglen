@@ -1,3 +1,6 @@
+
+HI there, I'm Glen Miller
+
 I am a Full-Stack Software engineer and react. I love programming.
 
 As a software engineer, I enjoy using my obsessive attention to detail. I love to code because if i can think it, Ican make it a reality.
@@ -8,6 +11,8 @@ As a software engineer, I enjoy using my obsessive attention to detail. I love t
 - 💞️ I’m looking to collaborate on pycharm
 - 📫 How to reach me E: glenprogrammiller@gmail.com
 - [Resume.PDF](https://github.com/millerglen/millerglen/files/9484031/Resume.PDF)
+
+
 
 
 <!---
